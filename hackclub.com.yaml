@@ -2664,6 +2664,10 @@ hackathons:
 - ttl: 300
   type: CNAME
   value: cname.vercel-dns.com.
+help: #mahasankarshant@gmail.com U096RMRG03G #help channel in slack
+- ttl: 300
+  type: CNAME
+  value: cname.vercel-dns.com.
 app-1.hackathons:
   ttl: 300
   type: A
