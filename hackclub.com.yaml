@@ -3043,7 +3043,7 @@ helm:
 help: # U096RMRG03G -- for #help channel in slack
 - ttl: 300
   type: CNAME
-  value: cname.vercel-dns.com.
+  value: 52e850f2c2846eae.vercel-dns-017.com.
 hermes:
   ttl: 300
   type: CNAME
